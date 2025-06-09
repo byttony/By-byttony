@@ -8,7 +8,7 @@ I'm a passionate developer with a keen interest in creating innovative solutions
 - 🌱 I’m currently learning [ C++,JS,PYTHON, VSCODE].
 - 🔭 I’m currently working on [I don't have any personal job or place of work I tread MEMEs coin and some time have an opportunity of working with a good team in building their community].
 - 👯 I’m looking to collaborate on [ With any Project in the crypto that will be beneficial to All].
-- 📫 How to reach me: [you can reach out to me on, e.g., email: debyttony@gmail.com, Telegram: @drcryptoseeker, etc.].
+- 📫 How to reach me: [you can reach out to me on, e.g., email: debyttony@gmail.com, Telegram: @JrCryptoSeeker, etc.].
 - ⚡ Fun fact: [The fun part and one thing i like my self is that am open minded and free to floow with].
 
 ## My Skills
