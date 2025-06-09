@@ -28,7 +28,7 @@ Here is a place where you can find few projects I've worked on:
 ![Byttony's GitHub stats](https://github-readme-stats.vercel.app/api?username=byttony&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [ TELEGRAM ](@Dr_crypto_seeker)
+- [ TELEGRAM ](t.me/JrCryptoSeeker)
 - [Email]( debyttony@gmail.com)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
